@@ -7,3 +7,10 @@
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-brenda.goncalves965@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenda.goncalves965@gmail.com)](mailto:brenda.goncalves965@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-BrendaGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/)](https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/) 
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
