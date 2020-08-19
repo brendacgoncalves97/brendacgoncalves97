@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning about data science
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-brenda.goncalves965@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenda.goncalves965@gmail.com)](mailto:brenda.goncalves965@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-BrendaGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/)](https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/) 
+- :speech_balloon: About me: I am a student of data science and systems analysis and development :smiley:
 
 
 
