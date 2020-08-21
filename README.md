@@ -8,5 +8,5 @@
 
 
 
-![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs,prs&theme=dracula&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dracula)
+![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs&theme=dracula&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dracula)
 
