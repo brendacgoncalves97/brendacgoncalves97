@@ -1,4 +1,4 @@
-### Hi humans :alien:
+### Hi humans :alien: :vulcan_salute:
 
 - 🔭 I’m currently working with development in C#
 - 🌱 I’m currently learning about data science
