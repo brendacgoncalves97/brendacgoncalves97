@@ -17,6 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
  
 
+**My stats**
 
 ![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs&theme=dracula&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dracula)
 
