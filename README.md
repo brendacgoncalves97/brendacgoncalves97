@@ -1,4 +1,4 @@
-### Hi humans :alien: :vulcan_salute:
+### Hi there, I'm Brenda :have:
 
 - 🔭 I’m currently working with development in C#
 - 🌱 I’m currently learning about data science
