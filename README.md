@@ -1,4 +1,4 @@
-### Hi there, I'm Brenda :have:
+### Hi there, I'm Brenda :wave:
 
 - 🔭 I’m currently working with development in C#
 - 🌱 I’m currently learning about data science
