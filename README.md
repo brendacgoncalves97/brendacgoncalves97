@@ -28,3 +28,4 @@
 
 ![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs,issues&count_private=true&theme=dracula&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dracula)
 
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/brendacgoncalves)
