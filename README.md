@@ -14,15 +14,15 @@
 
 
 
-**🔧 Main languages used and Tools:**
+**🔧 Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
+![image](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png)
+![image](https://img.icons8.com/color/48/000000/css3.png)
+![image](https://img.icons8.com/color/48/000000/html-5.png)
+![image](https://img.icons8.com/color/48/000000/javascript.png)
+![image](https://img.icons8.com/color/48/000000/python.png)
+![image](https://img.icons8.com/color/64/000000/react-native.png)
+![image](https://img.icons8.com/color/48/000000/nodejs.png)
  
 
 **&#x1f4c8; My stats:**
