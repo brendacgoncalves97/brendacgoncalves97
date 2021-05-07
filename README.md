@@ -26,5 +26,5 @@
 
 **&#x1f4c8; My stats:**
 
-![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs,issues&count_private=true&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=radical)
+![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs,issues&count_private=true&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dark)
 
