@@ -26,6 +26,6 @@
 
 **&#x1f4c8; My stats:**
 
-![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs,issues&count_private=true&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dark) [![brendacgoncalves97's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brendacgoncalves97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Brenda Gonçalves' github stats](https://github-readme-stats.vercel.app/api?username=brendacgoncalves97&hide=contribs,issues&count_private=true&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendacgoncalves97&layout=compact&theme=dark) [![brendacgoncalves97's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brendacgoncalves97&layout=compact&theme=dark)](https://wakatime.com/@brendacgoncalves97)
 
 
