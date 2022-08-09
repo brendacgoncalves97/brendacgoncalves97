@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with development in C#
 - 🌱 I’m currently learning about data science
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenda.goncalves965@gmail.com)](mailto:brenda.goncalves965@gmail.com)
+- 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/)](https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/) 
 - :speech_balloon: About me: I am a student of data science and systems analysis and development :smiley:
 
