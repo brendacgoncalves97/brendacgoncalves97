@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about data science
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/)](https://www.linkedin.com/in/brenda-gon%C3%A7alves-4ababb146/) 
-- :speech_balloon: About me: I am a student of data science and systems analysis and development :smiley:
+- :speech_balloon: About me: currently I have a degree in Systems Analysis and Development and I am studying postgraduate Computer Engineering :smiley:
 
 :woman_technologist: **My projects** <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/brendacgoncalves97?tab=repositories"> <B> Projects </B> </a> </details>
 
